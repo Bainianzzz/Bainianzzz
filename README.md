@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Bainianzzz.+AI+Full-Stack+Product+Engineer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=500&size=17&letterSpacing=0.1rem&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bainianzzz.+AI+Full-Stack+Product+Engineer." alt="Typing SVG" /></a>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently focused on LLM Observability.</strong>

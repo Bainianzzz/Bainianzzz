@@ -6,31 +6,22 @@
   </p>
   <p><strong>📝 Visit my blog: <a href="https://www.bainianzzz.fun">bainianzzz.fun</a></strong></p>
 
-<p>
-</p>
+  <h4>💼 Work Experience</h4>
+  <p>
+    <strong>✦ Emotion Machine (Beijing) ✦</strong><br/>
+    <code>Full-Stack Engineer Intern</code> -- <code>2025 to Now.</code>
+  </p>
+
+  <h4>🎓 Education</h4>
+  <p>
+    <strong>✦ Chongqing University of Posts and Telecommunications ✦</strong><br/>
+    <code>Software Engineering</code> -- <code>2023 to Now.</code>
+  </p>
+
+  <h4>💻 Open Source Experience</h4>
+  <p>
+    🦢 <strong>✦ Contributor of <a href="https://github.com/SwanHubX/SwanLab">SwanHubX/SwanLab</a> ✦</strong><br/>
+    AI training visualization &amp; experiment tracking
+  </p>
 
 </div>
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 💼 Work Experience
-<p>
-<strong>Emotion Machine (Beijing)</strong> -- <code>Full-Stack Engineer Intern</code> -- <code>2025 to Now.</code><br/>
-</p>
-
-#### 🎓 Education
-<p>
-<strong>Chongqing University of Posts and Telecommunications</strong> -- <code>Software Engineering</code> -- <code>2023 to Now.</code><br/>
-</p>
-
-</td>
-<td valign="top" width="48%">
-
-#### 💻 Open Source Experience
-
-- 🦢 **Contributor of [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)** — AI training visualization &amp; experiment tracking
-
-</td>
-</tr>
-</table>

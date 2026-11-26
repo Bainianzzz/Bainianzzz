@@ -1,7 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+page.;This+is+Qiyang+Zhou.)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Bainianzzz.+AI+Full-Stack+Product+Engineer" alt="Typing SVG" />
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently focused on LLM Observability.</strong>
+  </p>
+  <p><strong>📝 Visit my blog: <a href="https://www.bainianzzz.fun">bainianzzz.fun</a></strong></p>
 
-- 个人博客：https://www.bainianzzz.fun
-- 重庆邮电大学软件工程专业在读（2023-）
-- 情感机器（北京）公司全栈实习生（2025-）
+<p>
+</p>
 
-目前主要参与开发和维护： [SwanLab](https://github.com/SwanHubX/SwanLab)
+</div>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 💼 Work Experience
+<p>
+<strong>Emotion Machine (Beijing)</strong> -- <code>Full-Stack Engineer Intern</code> -- <code>2025 to Now.</code><br/>
+</p>
+
+#### 🎓 Education
+<p>
+<strong>Chongqing University of Posts and Telecommunications</strong> -- <code>Software Engineering</code> -- <code>2023 to Now.</code><br/>
+</p>
+
+</td>
+<td valign="top" width="48%">
+
+#### 💻 Open Source Experience
+
+- 🦢 **Contributor of [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)** — AI training visualization &amp; experiment tracking
+
+</td>
+</tr>
+</table>
